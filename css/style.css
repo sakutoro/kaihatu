@@ -1,0 +1,39 @@
+header {
+    height: 340px;
+    background-color: #f5d97a;
+}
+
+.headerbox {
+    position: relative;
+}
+
+.no1 {
+    position: absolute;
+    top: 20%;
+}
+.no2 {
+    position: absolute;
+    left: 100%;
+}
+
+.no3 {
+    position: absolute;
+    right: 100%;
+}
+
+.no4 {
+    position: absolute;
+    right: 50%;
+    top: 100%;
+}
+
+.imgbox {
+    position: relative;
+    text-align: center;
+}
+
+.imgbox img {
+    width: 115px;
+    height: 145px;
+    position: absolute;
+}
